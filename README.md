@@ -1,2 +1,2 @@
 # composite
-Aplicando o composite (Design Patterns)
+Aplicando o Composite (Arquitetura de Software: Design Patterns)
